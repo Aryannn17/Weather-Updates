@@ -3,7 +3,7 @@ This is an Weather App which tells you about the weather of any city in the Worl
 <br>
 <br>
 
-App Link --> https://aryannn17.github.io/Weather-Updates/
+Web Link --> https://aryannn17.github.io/Weather-Updates/
 
 
 <br>
