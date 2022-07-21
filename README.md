@@ -16,4 +16,4 @@ This app tells you about
    <li>Minimun and Maximun temprature of the day 🌡</li>
 </ul>
 <br>
-Language use in this app --> Html, CSS, JS
+Languages used in this app --> Html, CSS, JS
